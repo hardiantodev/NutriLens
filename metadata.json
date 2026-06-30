@@ -1,6 +1,0 @@
-{
-  "name": "NutriLens",
-  "description": "Asisten Belanja & Nutrisi Instan dalam bahasa indonesia untuk membantu lansia dengan pantangan makanan.",
-  "requestFramePermissions": ["camera"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
